@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/swf
+swf.so
+swf.dylib
+swf.dll
+swf.a
+swf.lib
+swf-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

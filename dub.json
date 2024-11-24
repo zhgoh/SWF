@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"zhgoh"
+	],
+	"copyright": "Copyright © 2024, zhgoh",
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "swf",
+	"targetPath": "bin",
+	"libs": [
+		"user32",
+		"gdi32"
+	]
+}
